@@ -1,7 +1,6 @@
 # Self driving car
 
 A javascript simulation in which cars learn to navigate themselves through a track. The cars are controlled by a feedforward Neural Network. The weights of the network are trained using a genetic algorithm.
-A walkthrough of main parts of the project: https://youtube.com/playlist?list=PLVu4IjxQpUcsMmxPOT3wAVHo6fjHun7Qv
 
 ![](assets/preview.gif)
 
