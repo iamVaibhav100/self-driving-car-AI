@@ -2,8 +2,6 @@
 
 A javascript simulation in which cars learn to navigate themselves through a track. The cars are controlled by a feedforward Neural Network. The weights of the network are trained using a genetic algorithm.
 
-![](assets/preview.gif)
-
 ## The Simulation
 
 Cars have to navigate through a course without going outside the track. A car has five sensors covering a front facing range of 90 degrees to measure the distance to obstacles in a given direction. The readings of these sensors serve as the input of the car's neural network. The output of the Neural Network then determines the car’s current acceleration and steering force.
